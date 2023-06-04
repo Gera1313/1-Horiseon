@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* This sets the background color of the body */
 body {
     background-color: #d9dcd6;
 }
 
+/* The following 6 .header sets the design for the header and contents */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,7 +43,8 @@ body {
     margin-left: 25px;
 }
 
-a {
+/* This alters the 3 texts on the main header */
+a { 
     color: #ffffff;
     text-decoration: none;
 }
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* This is the main image at the top center of the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +63,7 @@ p {
     background-position: center;
 }
 
+/* The followoing two .float sets the smaller images left or right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +74,14 @@ p {
     margin-left: 25px;
 }
 
+/* This is for the area containing the 3 sections in the middle of the page */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* The following .benefits set the design for the right-hand box */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +141,7 @@ p {
     max-width: 150px;
 }
 
+/* The following 9 sections designs and styles the 3 sections in the middle of the page */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +196,7 @@ p {
     font-size: 36px;
 }
 
+/* The following is for the footer at the bottom of the page */
 .footer {
     padding: 30px;
     clear: both;
