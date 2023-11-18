@@ -74,8 +74,9 @@ p {
     margin-left: 25px;
 }
 
-/* This is for the area containing the 3 sections in the middle of the page */
-.content {
+/* main */
+
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
