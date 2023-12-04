@@ -41,7 +41,7 @@ N/A
 
 ## Links
 
-[Deployed Site](https://gera1313.github.io/1-Horiseon/)
+[Deployed Site](https://gera1313.github.io/Horiseon/)
 
 ## Credits
 
