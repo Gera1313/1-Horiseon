@@ -1,7 +1,7 @@
 # HTML, CSS, and Git: Code Refactor
 
 
-## My Task
+## My Project
 
 I have been given started code to an existing site and my job is to refactor the code to make it cleaner and more efficient. I am not to change the look of the site, just refactor the code to make the code nicer looking. 
 
